@@ -16,7 +16,7 @@
 
   <body>
     <header>
-      <h1 class=" well"> Job Board Simulator</h1>
+      <h1 class="well"> Job Board Simulator !! </h1>
 
     </header>
 
