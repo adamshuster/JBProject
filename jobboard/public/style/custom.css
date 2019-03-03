@@ -1,0 +1,67 @@
+html{
+  border-style: dotted;
+  background-color: gray;
+  height: 100%;
+  overflow: scroll;
+}
+
+body{
+  width:80%;
+  border-style:solid;
+  left:10%;
+  right:10%;
+  position:absolute;
+  height: 100%;
+  overflow:scroll;
+}
+
+h1{
+  border-style: solid;
+  display: block;
+  text-align: center;
+  width: 60%;
+  top:40%;
+  position: relative;
+  margin: 10px auto;
+}
+
+h3{
+  border-style: solid;
+  display: block;
+  text-align: center;
+  width: 60%;
+  position: relative;
+  margin: 10px auto;
+}
+
+.landingimage{
+  position: absolute;
+  width: 60%;
+  display: block;
+  left:20%;
+}
+
+form{
+  display: inline-block;
+  width:60%;
+  position:relative;
+  left:20%;
+  right:20%;
+}
+
+.searchbutton{
+  position:absolute;
+  right: 5%;
+
+}
+
+input{
+  border-style:dotted;
+}
+
+.index-button{
+  position: absolute;
+  right:5%;
+  bottom: auto;
+  height:100%;
+}
